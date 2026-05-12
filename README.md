@@ -24,7 +24,7 @@ Acredito na tecnologia como braço direito da produtividade. No meu dia a dia, u
 ### 🚧 Em Desenvolvimento (Work in Progress)
 
 *   **Bank Transaction Simulator:** Um simulador completo de transações bancárias com Ledger, construído com Python, Kafka e Docker.
-*   **Job Hub:** Centralizador de vagas e ferramentas de busca para otimização de carreira.
+
 
 ---
 
